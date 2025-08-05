@@ -221,7 +221,6 @@ export default function DefensiveDrivingSchool() {
                     'The course must be completed at least 7 days before your court deadline date.',
                     'Commercial Driver License holders are eligible only if they received their ticket at 09/01/2019 while driving a non-commercial vehicle for non-commercial purposes.',
                     'For more information, please contact the AOC at (888) 334-5565, email them at ddrive@courts.az.gov, or visit their website.',
-                    'Students referred to us by 5Virtual may be subject to an additional $15 fee during registration; this will be noted at the beginning of registration.',
                     'For classroom courses, we charge a $15 door fee when making your payment the day of the class. This fee is waived when you prepay at the very latest the day before the class. Save money by calling us today at 623-231-2599.',
                     'We reserve the right to charge a $15 processing fee when returning funds to the card you use to purchase this course.',
                   ].map((item, index) => (
