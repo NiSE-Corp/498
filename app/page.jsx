@@ -69,8 +69,8 @@ export default function DefensiveDrivingSchool() {
 
               <p className='text-xl text-white/80 mb-8 max-w-2xl lg:max-w-none'>
                 We believe that a key element to safe driving is a positive
-                attitude. Our online course is easy and effective! Take now for
-                only $20!
+                attitude. Our online course is easy and effective! Enroll now
+                for only $20!
               </p>
 
               <div className='flex flex-col sm:flex-row gap-4 justify-center lg:justify-start items-center'>
@@ -141,13 +141,13 @@ export default function DefensiveDrivingSchool() {
                 icon: CheckCircle,
                 title: 'Completing the Course',
                 description:
-                  'Completing this 4 hr Defensive Course will allow you to dismiss your traffic citation. When you complete the course, we will send your completion certificate to you and the court.',
+                  'Completing this 4 hr Defensive Driving Course will allow you to dismiss your traffic citation. When you complete the course, we will send your completion certificate to you and the court.',
               },
               {
                 icon: Shield,
-                title: 'State & Supreme Court Approved',
+                title: 'Real Skills for Safer Driving',
                 description:
-                  'This is a Defensive Driving Course that has been approved by the Arizona Supreme Court and is in compliance with all applicable Arizona traffic laws.',
+                  "Help make our roads safer for everyone and learn how to avoid traffic citations with the real-world knowledge and skills you need to practice defensive driving every time you're behind the wheel.",
               },
               {
                 icon: Lock,
@@ -159,7 +159,7 @@ export default function DefensiveDrivingSchool() {
                 icon: Smartphone,
                 title: 'Mobile Friendly',
                 description:
-                  'Our course is fully optimized for mobile devices, tablets, and computers. Take the course anywhere, anytime at your own pace.',
+                  'Our course is fully optimized for mobile devices, tablets, and computers. Take the course anywhere, anytime, at your own pace.',
               },
               {
                 icon: Users,
@@ -218,7 +218,7 @@ export default function DefensiveDrivingSchool() {
                     'The course may only be completed once every 12 months from the date of your last violation.',
                     'A State Fee of $24 and State Surcharge of $45.',
                     'A copy of your citation and your license (or other, government-issued identification) is required to complete the course.',
-                    'The course must be completed at least 7 days before your court deadline date.',
+                    'The course must be completed at least 7 days before your court date.',
                     'Commercial Driver License holders are eligible only if they received their ticket at 09/01/2019 while driving a non-commercial vehicle for non-commercial purposes.',
                     'For more information, please contact the AOC at (888) 334-5565, email them at ddrive@courts.az.gov, or visit their website.',
                     'For classroom courses, we charge a $15 door fee when making your payment the day of the class. This fee is waived when you prepay at the very latest the day before the class. Save money by calling us today at 623-231-2599.',
